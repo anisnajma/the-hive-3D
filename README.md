@@ -2,6 +2,7 @@
 The Hive Interactive (Three.js)
 
 # Project Objective
+1. to produce an interactive 3D city model using 3.js Library
 # Project Planning
 1. Render 3D File into Three.js
 2. Asset Development
