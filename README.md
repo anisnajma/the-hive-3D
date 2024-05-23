@@ -1,11 +1,13 @@
 # The Hive 3D
-The Hive Interactive (Three.js)
+The Hive Interactive 3D City (Three.js)
+This uses Vite as web server
+Node.js as server-side client feature
 
 # Project Objective
 1. to produce an interactive 3D city model using 3.js Library
 # Project Planning
 1. Render 3D File into Three.js
-   - [ ] Set up development environment 💻
+   - [x] Set up development environment 💻
    - [ ] Explore three.js 🚀
    - [ ] ???
 3. Asset Development
@@ -52,7 +54,14 @@ Install with NPM and a build tool
 1. Install Node.js. We'll need it to load manage dependencies and to run our build tool.
 2. Install three.js and a build tool, Vite, using a terminal in your project folder. Vite will be used during development, but it isn't part of the final webpage. If you prefer to use another build tool, that's fine — we support modern build tools that can import ES Modules.
 
-
+### Steps
+1. git clone this repo into your project folder path (locally)
+2. install node into your project folder path (server side feature)
+3. install three.js into your project folder path (render 3D graphic)
+4. install vite into your project folder path (local server)
+5. Run server on localhost:8080
+6. Start coding!
+   
 # Note (contributors only)
 > [!NOTE]
 > Provided below is a reference to help guide you when updating the documentation in this repository
